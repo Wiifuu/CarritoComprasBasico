@@ -1,3 +1,5 @@
+# Leer README.md si estas aprendiendo y quieres interiorizar en el codigo.
+
 def comprobar(dato, flag):
     while True:
         try:
