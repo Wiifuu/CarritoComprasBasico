@@ -1,7 +1,6 @@
+# Carrito de compras básico
 
-Carrito de compras básico:
-
-Necesito crear un carrito de compras basico para ello debo considerar:
+Se necesita crear un carrito de compras basico para ello debo considerar:
 - 1.- El usuario puede agregar varios productos indicando el nombre y precio.
 - 2.- El sistema calcula el total de la compra.
 - 3.- Si el total supera ciertos montos, se aplican descuentos:
@@ -26,8 +25,8 @@ Necesito crear un carrito de compras basico para ello debo considerar:
     - Manejo de errores con try/except.
     - Listas y tuplas para almacenar productos.
 
-Entonces lo desarrollaré de la siguiente manera:
 
+# Proceso Lógico y Explicación del código:
 - 1.-  Crearé un menu interactivo con 3 opciones para que el usuario ingrese datos:
   - a) Agregar productos
   - b) Ver detalle
